@@ -10,7 +10,7 @@
 
 ## List of Commands
 
-* 'CreateItem <item_code> <description> <price> <inventory_amount>'
+* CreateItem <item_code> <description> <price> <inventory_amount>
 * UpdateInventory <item_code> <inventory_amount>
 * DeleteItem <item_code>
 * GetItems <item_code or % for all>
